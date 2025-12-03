@@ -148,5 +148,6 @@ python hand_gesture_mouse.py
 ---
 
 ## 📸 Preview
+<img width="1232" height="715" alt="Screenshot 2025-12-03 095305" src="https://github.com/user-attachments/assets/43e00e45-a95a-4a69-967d-4ab0376f0859" />
 
 
